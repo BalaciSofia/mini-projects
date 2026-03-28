@@ -1,5 +1,0 @@
-C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/CMakeFiles/a10_BalaciSofia_1.dir
-C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/CMakeFiles/a10_BalaciSofia_1_autogen_timestamp_deps.dir
-C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/CMakeFiles/a10_BalaciSofia_1_autogen.dir

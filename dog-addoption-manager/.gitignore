@@ -25,6 +25,26 @@
 *.la
 *.a
 *.lib
+# Build folders
+
+cmake-build-*/
+build/
+
+# CLion
+
+.idea/
+*.iml
+
+# CMake
+
+CMakeCache.txt
+CMakeFiles/
+
+# Binaries
+
+*.exe
+*.dll
+*.o
 
 # Executables
 *.exe
