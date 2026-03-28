@@ -1,0 +1,43 @@
+# ninja log v6
+8373	19073	7964199885773781	CMakeFiles/a10_BalaciSofia_1.dir/adminwindow.cpp.obj	9cb6e4f3f41d29a1
+19	284	7964213558323038	a10_BalaciSofia_1_autogen/timestamp	a2d35ad42fb128fc
+8287	18529	7964199885103682	CMakeFiles/a10_BalaciSofia_1.dir/adddialog.cpp.obj	9d349862bd916308
+894	5744	7964212367792193	CMakeFiles/a10_BalaciSofia_1.dir/ui/adoptdog.cpp.obj	e050777401fce222
+11	2847	7964194439145024	C:/ALE MELE/UBB/semester 2/oop/a10-BalaciSofia-1/cmake-build-debug/a10_BalaciSofia_1_autogen/mocs_compilation.cpp	4b2aa102cb7f474d
+19	284	7964213558323038	a10_BalaciSofia_1_autogen/mocs_compilation.cpp	a2d35ad42fb128fc
+11	2847	7964194439145024	C:/ALE MELE/UBB/semester 2/oop/a10-BalaciSofia-1/cmake-build-debug/a10_BalaciSofia_1_autogen/timestamp	4b2aa102cb7f474d
+21830	43519	7964200020350929	CMakeFiles/a10_BalaciSofia_1.dir/displaydogs.cpp.obj	6469735b00817261
+28487	43786	7964200086921992	CMakeFiles/a10_BalaciSofia_1.dir/mainwindow.cpp.obj	69b6154269ab649f
+2042	6654	7964212134521091	CMakeFiles/a10_BalaciSofia_1.dir/main.cpp.obj	869cf0c2c67bcf1a
+922	5890	7964213207677021	CMakeFiles/a10_BalaciSofia_1.dir/a10_BalaciSofia_1_autogen/mocs_compilation.cpp.obj	5e038dd9a338bfcd
+880	2232	7964213056911585	CMakeFiles/a10_BalaciSofia_1.dir/controller/controller_user.cpp.obj	394e9c65c3f16e10
+19456	22203	7964199996603465	CMakeFiles/a10_BalaciSofia_1.dir/controller_user.cpp.obj	2c3996c116915bfd
+19074	21830	7964199992783382	CMakeFiles/a10_BalaciSofia_1.dir/controller_admin.cpp.obj	ba9370ff31c52d41
+18530	28487	7964199987343415	CMakeFiles/a10_BalaciSofia_1.dir/chart.cpp.obj	f505fe3eedca2e8
+19	284	7964213558323038	C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/a10_BalaciSofia_1_autogen/timestamp	a2d35ad42fb128fc
+22203	43798	7964200024077252	CMakeFiles/a10_BalaciSofia_1.dir/htmlorcsv.cpp.obj	681ef5fda950f8fb
+17488	30292	7964199976933442	CMakeFiles/a10_BalaciSofia_1.dir/adoptdog.cpp.obj	2931fd890badbf3e
+30292	32636	7964200104968450	CMakeFiles/a10_BalaciSofia_1.dir/repo.cpp.obj	ed057ead5b96130c
+43786	45199	7964200239905306	CMakeFiles/a10_BalaciSofia_1.dir/domain.cpp.obj	194a0c9df2801c4a
+45177	46781	7964200253820102	CMakeFiles/a10_BalaciSofia_1.dir/command.cpp.obj	1baae619a05115dc
+32636	45177	7964200128398112	CMakeFiles/a10_BalaciSofia_1.dir/updatedialog.cpp.obj	44943e3837c0a547
+43798	50285	7964200240032235	CMakeFiles/a10_BalaciSofia_1.dir/dog_table_model.cpp.obj	2c8163ea8ebfc513
+45199	47069	7964200254040672	CMakeFiles/a10_BalaciSofia_1.dir/undo_redo.cpp.obj	5371a8ea7f944863
+43520	52153	7964200237244256	CMakeFiles/a10_BalaciSofia_1.dir/userwindow.cpp.obj	4f271603db54f927
+871	5479	7964213056816177	CMakeFiles/a10_BalaciSofia_1.dir/ui/adminwindow.cpp.obj	3a92f06c377e96f8
+5894	7169	7964213617070695	a10_BalaciSofia_1.exe	1a495d33c9cd8132
+11	902	7964213692478999	build.ninja	f966f87d34575a16
+19	284	7964213558323038	C:/ALE MELE/mini-projects/dog-addoption-manager/cmake-build-debug/a10_BalaciSofia_1_autogen/mocs_compilation.cpp	a2d35ad42fb128fc
+860	4716	7964212525389344	CMakeFiles/a10_BalaciSofia_1.dir/ui/chart.cpp.obj	8e3b60288b5edb23
+300	1118	7964213561130327	CMakeFiles/a10_BalaciSofia_1.dir/domain/command.cpp.obj	b55138a18e3edac0
+290	1243	7964213561035009	CMakeFiles/a10_BalaciSofia_1.dir/domain/domain.cpp.obj	2aa1121909b2a36b
+901	5420	7964212865635748	CMakeFiles/a10_BalaciSofia_1.dir/ui/adddialog.cpp.obj	2db71b1ace742011
+875	2259	7964213056856295	CMakeFiles/a10_BalaciSofia_1.dir/controller/controller_admin.cpp.obj	e09a1ad90b2795eb
+927	5149	7964213207744039	CMakeFiles/a10_BalaciSofia_1.dir/ui/displaydogs.cpp.obj	3ce4af86b90dfaf7
+933	5386	7964213207799241	CMakeFiles/a10_BalaciSofia_1.dir/ui/htmlorcsv.cpp.obj	b8b68dfbf47c1874
+272	1365	7964213468620561	CMakeFiles/a10_BalaciSofia_1.dir/repo/repo.cpp.obj	d46c7cc4331da89a
+295	4209	7964213561090094	CMakeFiles/a10_BalaciSofia_1.dir/repo/dog_table_model.cpp.obj	2cac5232ad10ff30
+267	5086	7964213468568483	CMakeFiles/a10_BalaciSofia_1.dir/ui/mainwindow.cpp.obj	5fabd68eac3ac22a
+278	5236	7964213468680618	CMakeFiles/a10_BalaciSofia_1.dir/ui/updatedialog.cpp.obj	1615986ab0c787a7
+1118	2044	7964213569329293	CMakeFiles/a10_BalaciSofia_1.dir/repo/undo_redo.cpp.obj	92d33d5c2ff4957b
+285	5893	7964213560988537	CMakeFiles/a10_BalaciSofia_1.dir/ui/userwindow.cpp.obj	fb40b43913bb5cf6
