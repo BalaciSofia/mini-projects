@@ -1,0 +1,27 @@
+# ninja log v6
+344	5293	7717330194591908	CMakeFiles/practice_final2_microbial_.dir/biologistwindow.cpp.obj	53cd599f850a6412
+1113	2554	7717323362935418	CMakeFiles/practice_final2_microbial_.dir/Service.cpp.obj	a7174923aa61fd11
+1438	4309	7717286667060096	CMakeFiles/practice_final2_microbial_.dir/Biologist.cpp.obj	9438fa65b68bf68
+57	329	7717330191731936	practice_final2_microbial__autogen/mocs_compilation.cpp	3ea95a1215c15863
+57	329	7717330191731936	practice_final2_microbial__autogen/timestamp	3ea95a1215c15863
+330	1273	7717330194459396	CMakeFiles/practice_final2_microbial_.dir/Bacterium.cpp.obj	36ba696dbeae574d
+2425	3454	7717268876507254	CMakeFiles/practice_final2_microbial_.dir/Subject.cpp.obj	3a3364aa6cd43727
+337	1374	7717330194531086	CMakeFiles/practice_final2_microbial_.dir/Repository.cpp.obj	bade7a64d5c37a17
+3455	3676	7717268886824251	CMakeFiles/practice_final2_microbial_.dir/Observer.cpp.obj	783759f149f21ed5
+1101	5416	7717323362823858	CMakeFiles/practice_final2_microbial_.dir/main.cpp.obj	cd1eada3ffa123a7
+1095	5200	7717323362757035	CMakeFiles/practice_final2_microbial_.dir/practice_final2_microbial__autogen/mocs_compilation.cpp.obj	256ceeea750c6936
+5294	5997	7717330244094599	practice_final2_microbial_.exe	aabba0e8e689bf42
+20	4792	7964252264303449	practice_final2_microbial__autogen/timestamp	3c6133891a1d146
+20	4792	7964252264303449	practice_final2_microbial__autogen/mocs_compilation.cpp	3c6133891a1d146
+20	4792	7964252264303449	C:/ALE MELE/UBB/semester 2/oop/practice_final2(microbial)/cmake-build-debug/practice_final2_microbial__autogen/timestamp	3c6133891a1d146
+20	4792	7964252264303449	C:/ALE MELE/UBB/semester 2/oop/practice_final2(microbial)/cmake-build-debug/practice_final2_microbial__autogen/mocs_compilation.cpp	3c6133891a1d146
+4810	6340	7964252265350127	CMakeFiles/practice_final2_microbial_.dir/Bacterium.cpp.obj	6b4f4981b16e346b
+4806	6373	7964252265299660	CMakeFiles/practice_final2_microbial_.dir/Biologist.cpp.obj	225134ca50619f9f
+6373	7425	7964252280979727	CMakeFiles/practice_final2_microbial_.dir/Subject.cpp.obj	c35a0cdb26ea3cc5
+7425	7515	7964252291503212	CMakeFiles/practice_final2_microbial_.dir/Observer.cpp.obj	d27c76626c73ec0c
+6340	7613	7964252280653252	CMakeFiles/practice_final2_microbial_.dir/Repository.cpp.obj	295715972e89c3c1
+7515	9100	7964252292404554	CMakeFiles/practice_final2_microbial_.dir/Service.cpp.obj	bcaa853b3e8922f6
+4796	10085	7964252265204288	CMakeFiles/practice_final2_microbial_.dir/practice_final2_microbial__autogen/mocs_compilation.cpp.obj	1bc80b8e51cfd4c
+4801	10255	7964252265259673	CMakeFiles/practice_final2_microbial_.dir/main.cpp.obj	a3e97116275c5bc1
+7613	13156	7964252293385507	CMakeFiles/practice_final2_microbial_.dir/biologistwindow.cpp.obj	a187db5a13b7b467
+13157	15458	7964252348815469	practice_final2_microbial_.exe	8d269f925caf30b3
