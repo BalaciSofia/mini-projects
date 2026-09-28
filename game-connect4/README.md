@@ -10,3 +10,12 @@ A Python implementation of Connect 4 with both a Pygame graphical interface and 
 - Win detection (horizontal, vertical, diagonal)  
 - Simple AI (winning + blocking strategy)  
 - Unit tests across all application layers  
+
+## Run
+
+From the `game-connect4` folder:
+
+```
+pip install pygame
+python -m start.start
+```
